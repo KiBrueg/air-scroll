@@ -1,5 +1,7 @@
 # Air Scroll
 
+![Air Scroll concept: webcam-controlled vertical scrolling](assets/air-scroll-concept.png)
+
 A small Windows overlay that processes a USB camera feed locally and turns **downward index-fingertip motion** into vertical mouse-wheel scrolling.
 
 > **Status:** experimental local desktop utility. It is not a security boundary and should be used only on a machine where you control the active window.
