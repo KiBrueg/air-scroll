@@ -1,0 +1,10 @@
+{
+  "camera_index": 0,
+  "down_threshold": 0.08,
+  "up_threshold": 0.08,
+  "release_ratio": 0.35,
+  "smoothing_alpha": 0.35,
+  "scroll_sensitivity": 3.0,
+  "blur_background": true,
+  "gesture_ticks": 3
+}

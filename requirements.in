@@ -1,0 +1,4 @@
+# Runtime dependencies. Locked with hashes into requirements.lock.
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+Pillow==11.1.0
